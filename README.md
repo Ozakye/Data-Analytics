@@ -8,6 +8,8 @@ https://github.com/othneildrew/Best-README-Template -->
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -71,8 +73,8 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 ### Built With
 
 * [![Python][python-shield]][python-url]
-* [![Google Colab][Google-Colab]][google-colab-url]
-* [![Jupyter Notebook][Jupyter-Notebook]][jupyter-notebook-url]
+* [![Google Colab][google-colab-shield]][google-colab-url]
+* [![Jupyter Notebook][jupyter-notebook-shield]][jupyter-notebook-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,9 +87,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Ozaky
 [product-screenshot]: images/screenshot.png
-[Python]: [SHIELD IMAGE]
+[python-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
-[Google-Colab]: [SHIELD IMAGE]
+[google-colab-shield]: https://img.shields.io/badge/googlecolab-000000?style=for-the-badge&logo=googlecolab&logoColor=white
 [google-colab-url]: https://colab.google/
-[Jupyter-Notebook]: [SHIELD IMAGE]
+[jupyter-notebook-shield]: https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white
 [jupyter-notebook-url]: https://jupyter.org/
