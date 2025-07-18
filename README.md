@@ -87,9 +87,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Ozaky
 [product-screenshot]: images/screenshot.png
-[python-shield]: https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white
+[python-shield]: https://img.shields.io/badge/python-2b2b2b?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
-[google-colab-shield]: https://img.shields.io/badge/googlecolab-000000?style=for-the-badge&logo=googlecolab&logoColor=white
+[google-colab-shield]: https://img.shields.io/badge/googlecolab-2b2b2b?style=for-the-badge&logo=googlecolab&logoColor=white
 [google-colab-url]: https://colab.google/
-[jupyter-notebook-shield]: https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white
+[jupyter-notebook-shield]: https://img.shields.io/badge/jupyter-2b2b2b?style=for-the-badge&logo=jupyter&logoColor=white
 [jupyter-notebook-url]: https://jupyter.org/
