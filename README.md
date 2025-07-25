@@ -20,16 +20,16 @@ https://github.com/othneildrew/Best-README-Template -->
 <h3 align="center">Data Analytics</h3>
 
   <p align="center">
-    project_description
+    Bootcamp
     <br />
-    <a href="https://github.com/Ozakye/Data-Analytics"><strong>Explore the docs »</strong></a>
+    <a href="https://womakerscode.org"><strong>WoMakersCode »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ozakye/Data-Analytics">View Demo</a>
+    <a href="https://womakerscode.org/formacao-em-tecnologia">Bootcamps</a>
     &middot;
-    <a href="https://github.com/Ozakye/Data-Analytics/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://www.maismulheres.tech/collections">Cursos Online</a>
     &middot;
-    <a href="https://github.com/Ozakye/Data-Analytics/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://www.maismulheres.tech">Mais Mulheres em Tech</a>
   </p>
 </div>
 
