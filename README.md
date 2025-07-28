@@ -38,8 +38,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `Ozakye`, `Data-Analytics`, `twitter_handle`, `Ozaky`, `email_client`, `email`, `Data Analytics`, `project_description`, `project_license`
-
+Estou documentando nesse repositório minha experiência e exercícios do bootcamp de Data Analytics. Duração de 11/01/2025 a 02/08/2025.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
