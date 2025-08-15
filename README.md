@@ -62,7 +62,7 @@ Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza, que começou
 
 [WoMakersCode](https://womakerscode.org)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 ### Construido com
 
@@ -70,7 +70,7 @@ Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza, que começou
 * [![Google Colab][google-colab-shield]][google-colab-url]
 * [![Jupyter Notebook][jupyter-notebook-shield]][jupyter-notebook-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
