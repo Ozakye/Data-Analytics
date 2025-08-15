@@ -34,7 +34,7 @@ https://github.com/othneildrew/Best-README-Template -->
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o Projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -43,7 +43,7 @@ Estou documentando nesse repositório minha experiência e exercícios do bootca
 
 
 
-### Built With
+### Construido com
 
 * [![Python][python-shield]][python-url]
 * [![Google Colab][google-colab-shield]][google-colab-url]
@@ -60,9 +60,9 @@ Estou documentando nesse repositório minha experiência e exercícios do bootca
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Ozaky
 [product-screenshot]: images/screenshot.png
-[python-shield]: https://img.shields.io/badge/python-2b2b2b?style=for-the-badge&logo=python&logoColor=white
+[python-shield]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org/
-[google-colab-shield]: https://img.shields.io/badge/googlecolab-2b2b2b?style=for-the-badge&logo=googlecolab&logoColor=white
+[google-colab-shield]: https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white
 [google-colab-url]: https://colab.google/
-[jupyter-notebook-shield]: https://img.shields.io/badge/jupyter-2b2b2b?style=for-the-badge&logo=jupyter&logoColor=white
+[jupyter-notebook-shield]: https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
 [jupyter-notebook-url]: https://jupyter.org/
