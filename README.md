@@ -48,7 +48,7 @@ As atividades deveriam ser entregues até a última sexta-feira do período de c
 
 Cada grupo tinha 7 integrantes, com exceção de um, que ficou com número diferente para incluir todas as 50 aprovadas. Durante a primeira semana do curso, era possível informar à coordenação sobre a desistência sem nenhum custo. Após esse período, as desistências implicavam multa, salvo se motivadas por caso fortuito e/ou força maior, devidamente comprovado.
 
-Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza, que começou com 6 membros. Houve a desistência de um participante no início e outro que nunca compareceu às aulas nem interagiu no Discord da WoMakersCode, totalizando 4 membros ativos até o final do curso.
+Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza. Ao final do curso, considerando as desistências e reprovações, concluímos com apenas 4 membros.
 
 <br />
 
