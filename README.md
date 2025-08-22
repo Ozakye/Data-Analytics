@@ -36,10 +36,6 @@ https://github.com/othneildrew/Best-README-Template -->
 <!-- ABOUT THE PROJECT -->
 ## Sobre o Projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-<br />
-
 Esse projeto contém minhas experiências como analista de dados durante o bootcamp de Data Analytics. Este curso foi fornecido pela WoMakersCode, em parceria com o Instituto Localiza e a S&P Global Foundation, focado no ensino e na inserção de mulheres no mercado de tecnologia. As inscrições ocorreram de 16 de setembro a 16 de outubro de 2024, e o processo seletivo contou com 4 etapas. Durante a primeira aula presencial, foram apresentadas estatísticas sobre o processo seletivo: 5.000 mulheres se inscreveram na primeira etapa, das quais 50 foram selecionadas. Posteriormente, as alunas foram divididas em 2 turmas, baseadas nas parcerias do curso, e organizadas em squads para trabalhos em grupo. Mais informações e atualizações sobre o curso estão disponíveis pelo link ao final desta seção.
 
 O curso conta com aulas gravadas liberadas semanalmente, das quais é necessário o envio de atividades individuais e em squad para cada módulo. As aulas online ocorriam entre segunda e quinta-feira, sendo escolhidos 1 ou 2 dias por semana, dentro desse intervalo, para a aula ao vivo via Google Meet, com lista de presença gerenciada pelos administradores do curso. Essas aulas tinham como foco a revisão de conteúdo, o plantão tira-dúvidas e a interação com os professores. Sobre as aulas presenciais, todo 2º sábado do mês era escolhido um local, entre o Microsoft Reactor ou a unidade Ibmec, para os encontros. O horário era fixo, das 9h30 às 12h30, com apresentação de duas aulas e um intervalo entre elas para o café da manhã, disponibilizado pela instituição.
@@ -74,6 +70,39 @@ Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza. Ao final do 
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
+<!-- CHALLENGES -->
+## Desafios em Python
+
+[![Banner Individual][banner-individual]](Individual/)
+
+- [Python Pandas](Individual/Python%20Pandas/)
+- [Estatística](Individual/Estatística/)
+- [Data Visualization](Individual/Data%20Visualization/)
+- [Probabilidade e Amostragem](Individual/Probabilidade%20e%20Amostragem/)
+- [Teste de Hipótese](Individual/Teste%20de%20Hipótese/)
+- [Correlação e Regressão](Individual/Correlação%20e%20Regressão)
+- [Regressão Logística](Individual/Regressão%20Logística/)
+- [Google Sheets](Individual/Google%20Sheets)
+- [SQL](Individual/SQL/)
+
+<br />
+
+---
+
+<br />
+
+[![Banner Squad][banner-squad]](Squad/)
+
+- [Python Pandas](Squad/[Squad]%20Python%20Pandas/)
+- [Frequências e Medidas](Squad/[Squad]%20Frequências%20e%20Medidas/)
+- [Modelos de Classificação](Squad/[Squad]%20Modelos%20de%20Classificação/)
+- [Probabilidade e Amostragem](Squad/[Squad]%20Probabilidade%20e%20Amostragem/)
+- [Teste de Hipótese](Squad/[Squad]%20Teste%20de%20Hipótese/)
+- [Correlação e Regressão](Squad/[Squad]%20Correlação%20e%20Regressão/)
+- [Projeto Final](Squad/[Squad]%20Projeto%20Final/)
+
+<p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [stars-shield]: https://img.shields.io/github/stars/Ozakye/Data-Analytics.svg?style=for-the-badge
@@ -82,7 +111,8 @@ Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza. Ao final do 
 [license-url]: https://github.com/Ozakye/Data-Analytics/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Ozaky
-[product-screenshot]: images/screenshot.png
+[banner-individual]: images/Banner_Individual.png
+[banner-squad]: images/Banner_Squad.png
 [womakerscode-shield]: https://img.shields.io/badge/WoMakersCode-17181c?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAMAAABsDg4iAAABR1BMVEVHcEzBF1z31hepY07G0Cu6yzCvFF6nEGKjEGPgmyzSjyzhniv63RW7yzC8Fl7GKDi7yzC7yzC7yzC0FF+jEGO5FV6sEmHGGVunEWKjEGOlEGLGKDnFGVujEGOlEGPBF1zQYS3HHFTGG1fGLS/GKTfNUi3HMC/GKzLWeSvXfCvWeivXfSvZhCvYgSvZgyvflyzgmi3kpintvSDlpyn31RjIqS3v2hm7yzDBzS67yzDvuCG7yzD23Ra7yzC4yjG7yzC7yzDFGVvGGVqjEGOjEGOzFF+iEGOjEGPHG1fGKTbMTC7LSi7XfSvXfivYgivosSXpsiXkpynkpynBzS27yzC6yzDBzS321Bj20xjCzS3CzS26yzDw3hjM0Ci7yzDZhCvPXy3WeivgmyzGGlimEWLNUy3kpinAzS7GKDfv2xnHMC/v2hnHMDCw+1ScAAAAX3RSTlMA/v4BKVYpPPPcD+jk7AUv+K88EmIMMbLT6cTO4Pjd97SJ7bv67f7eJzL558jp+XUz8kLe8ATwNfTfMTKtoxZJz5/EssseTnXU801Bp7AXbGbI0MvzTdPJxMjDZCIiqJyg3pQAAAEeSURBVBjTPY1Xc4JQEEaXJgiiSGyx994bamzpvfdKIskNRv//cy7geB6+3T2zswtboluhKf5DBpiMOhStjEQZ7u8ksc+MGbciuydjpi9KEgO3v5jeM/06nTLvLz1jeoDufD5fLBZDmqbfhrjDYxfaJEk6HCT5OBg8WR3ZhmuEGpfNFkKCgFCredVA6Abq9tlMqOEwsNcEHHXgy6qqVqqqSbWCo3wBVOG8VPxaUyydFToAwOfjn2vieR4sTjI/KzKnKwWuVHb5Z7LMplyWs4V0PXesY9K5tB4yrdOvaVriCIeWTCQ1bWfDkNsEQcQIIhw2C+H3Gqv7wW9MlPUFjBqwmTepg2iEC7AU+PY4btPjNKV3N3LI2ijjJevhgvjkP7YXRdeVtEVoAAAAAElFTkSuQmCC
 [womakerscode-url]: https://womakerscode.org
 [mais-mulheres-em-tech-shield]: https://img.shields.io/badge/Mais%20Mulheres%20em%20Tech-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAALCAMAAABf9c24AAAAgVBMVEVHcEwBAQEGBgYFBQUBAQEDAwMEBAQAAAAGBgb/ZJ3/YZsAAAABAQEBAQH/YZsAAAABAQH/Z5//ZZ0CAgIAAAD/a6H/YpsFBQUAAAAEBAQBAQEDAwP/YZsFBQX/YZsDAwP/YZoBAQECAgIEBAT/YZv/Y5z/Y5z/YJr/Y5wAAAD/YJr2h3AkAAAAKXRSTlMA5REky4xb0xwnq3Lf2bz+sQ8bZfUFd1HvTcRvkTDHfuG6nkDQO03zVjMlITQAAACqSURBVBjTdc/ZEsIgDAXQ0IJCpUD3RWvrbvj/DzSdYl+svGQuJ5lJoFIZLE863jdFr/koYbimqevos56SfOGYIe5LRLRul1LBtgBIvDf5ythqarAlMmYR9QBqdvVlfpMdTVoRx8KiPQLk5GcVmDIIGpO0CrUJillwYrujfKAVIoCIL6yM9/N62/y4e3/K4A+/p6DbbPyrrtbDfvhpgoLkTDdUC8YuMzvGxg+f2hNDLDPDrgAAAABJRU5ErkJggg==
