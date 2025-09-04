@@ -102,6 +102,9 @@ Meu squad e turma eram o squad Ada Lovelace – Instituto Localiza. Ao final do 
 - [Teste de Hipótese](Squad/[Squad]%20Teste%20de%20Hipótese/)
 - [Correlação e Regressão](Squad/[Squad]%20Correlação%20e%20Regressão/)
 - [Projeto Final](Squad/[Squad]%20Projeto%20Final/)
+  - [Desafio Câncer](Squad/[Squad]%20Projeto%20Final/Desafio%20Câncer)
+  - [Desafio Desempenho Acadêmico](Squad/[Squad]%20Projeto%20Final/Desafio%20Desempenho%20Acadêmico)
+  - [Desafio Qualidade de Sono](Squad/[Squad]%20Projeto%20Final/Desafio%20Qualidade%20de%20Sono)
 
 <p align="right">(<a href="#readme-top">voltar ao topo</a>)</p>
 
